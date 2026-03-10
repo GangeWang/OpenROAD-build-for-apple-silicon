@@ -3,7 +3,7 @@ class Openroad < Formula
   homepage "https://the-openroad-project.org"
   url "https://github.com/GangeWang/OpenROAD-build-for-apple-silicon/releases/download/v.2026.2.26/-arm64-mac.tar.gz"
   version "2026.2.26"
-  sha256 "c214b4b5a439491d7f94ec40c5cead9c2453080c3a63df734992d93db39f9e24"
+  sha256 "9cf62dfa3679d0cf2ff9d6445117e66b0ef72065959d3910a4d4a4090536dbe6"
   depends_on "abseil"
   depends_on "cbc"
   depends_on "fmt"
